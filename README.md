@@ -15,9 +15,7 @@ A futuristic **Matrix-style** portfolio landing page featuring a glitch animatio
 ✔ Dynamic resizing for **full-screen coverage**  
 
 ### **3️⃣ Interactive "Enter Portfolio" Button**  
-✔ Appears **after 5 seconds**  
 ✔ Surrounded by a **blinking white box** (syncs with glitch animation)  
-✔ Fully **centered** on all screen sizes  
 
 ### **4️⃣ Dual-Stream Matrix Transition**  
 ✔ When button is clicked, the **Matrix rain resets**  
