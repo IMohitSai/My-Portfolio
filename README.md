@@ -28,8 +28,8 @@ A futuristic **Matrix-style** portfolio landing page featuring a glitch animatio
 
 ## 🛠 Technologies Used  
 
-- **HTML5** → Structure  
-- **CSS3** → Styling & Animations  
-- **JavaScript (Vanilla)** → Main Logic & Matrix Effect  
-- **Canvas API** → Rendering the Matrix Rain  
-- **GitHub** → Version Control  
+- **HTML5** → Structure.  
+- **CSS3** → Styling & Animations.  
+- **JavaScript (Vanilla)** → Main Logic & Matrix Effect.  
+- **Canvas API** → Rendering the Matrix Rain.  
+- **GitHub** → Version Control.
